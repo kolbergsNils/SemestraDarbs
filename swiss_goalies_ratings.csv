@@ -1,0 +1,4 @@
+name,team,position,club,league,games,save_percentage,gaa,shutouts,swiss_games,olympic_qualifier_games,age,rating,roster_probability
+Sandro Aeschlimann,Switzerland,G,HC Davos,NLA,33,0.925,2.17,3,3,0,31,77.51500000000001,0.9090342739645565
+Reto Berra,Switzerland,G,HC Fribourg-Gotteron,NLA,37,0.92,1.99,5,3,0,39,80.265,0.9167433845378935
+Leonardo Genoni,Switzerland,G,EV Zug,NLA,38,0.918,2.33,4,9,4,38,77.60500000000002,0.9540998523864495
